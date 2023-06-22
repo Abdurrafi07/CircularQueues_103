@@ -13,6 +13,8 @@ public:
 
 	void insert() {
 		int num;
-
+		cout << "Enter a Number : ";
+		cin >> num;
+		cout << endl;
 	}
 };
